@@ -3,9 +3,11 @@ $(function() {
       console.log('submitting form');
 
 			var data = {
-			    name: $("#exampleInputName1").val(),
-			    email: $("#exampleInputEmail1").val(),
-			    message: $("#exampleInputMessage1").val()
+			    name: $("#name").val(),
+			    email: $("#email").val(),
+			    message: $("#message").val(),
+			    response: $("#formResp").text()
+
 			};
 
 			console.log(data);
@@ -16,9 +18,10 @@ $(function() {
 					// crossDomain: true,
 					url: $(mailform).attr('action'),
 			    data: data,
-			    // success: function(){
-			    //     $('.success').fadeIn(1000);
-			    // }
+			    success: function(){
+			        // $('.success').fadeIn(1000);
+							alert('email sent!');
+			    }
 			});
 /*
 			$.post("email.php", {
@@ -39,9 +42,4 @@ $(function() {
 */
 
   });
-});
-
-
-$(".btn-group > .btn").click(function(){
-    $(this).addClass("active").siblings().removeClass("active");
 });

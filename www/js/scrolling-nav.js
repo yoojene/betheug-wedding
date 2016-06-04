@@ -17,3 +17,35 @@ $(function() {
         event.preventDefault();
     });
 });
+
+
+
+$(".btn-group > .btn").click(function(){
+    $(this).addClass("active").siblings().removeClass("active");
+});
+
+$('#yesBtn').click(function(){
+	// $('#message').attr('')
+	// alert('yes clicked');
+	var value =  $('#yesBtn').text();
+	console.log(value);
+
+	$('#formResp').text("Y");
+	$('#formResp').hide();
+
+
+	$('#message').text(value);
+	 event.preventDefault();
+});
+
+$('#noBtn').click(function(){
+	var value =  $('#noBtn').text();
+	console.log(value);
+
+	$('#formResp').text("N");
+	$('#formResp').hide();
+
+	$('#message').text(value);
+	 event.preventDefault();
+
+});

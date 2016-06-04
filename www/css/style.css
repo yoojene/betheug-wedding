@@ -1,4 +1,29 @@
 
+@font-face {
+    font-family: 'kg_sorry_not_sorryregular';
+    src: url('../fonts/kgsorrynotsorry-webfont.woff2') format('woff2'),
+         url('../fonts/kgsorrynotsorry-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'kg_sorry_not_sorry_chubRg';
+    src: url('../fonts/kgsorrynotsorrychub-webfont.woff2') format('woff2'),
+         url('../fonts/kgsorrynotsorrychub-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.test-font {
+	font-family: "kg_sorry_not_sorryregular";
+	font-size: 15px;
+	/*font-family: "kg_sorry_not_sorry_chubRg";*/
+}
 
 /* responsive text queries */
 @media screen and (max-width: 992px) {
@@ -7,15 +32,17 @@
   }*/
 
 	.title-text {
-	    /*font-size: 100%;*/
-	  font-size: 25px;
+	  /*	font-size: 100%;*/
+	  font-size: 50px;
 			/*font-family: 'Open Sans', arial, serif*/
+	  font-family: "kg_sorry_not_sorryregular";
 	  }
-	.welcome-text .travel-header-text{
+	/*.welcome-text .travel-header-text{
     font-size: 95%;
-    /*font-size: 30px;*/
-		/*font-family: 'Open Sans', arial, serif*/
-  }
+    font-size: 30px;
+
+		font-family: "kg_sorry_not_sorryregular";
+  }*/
 	.travel-header-text {
     font-size: 95%;
     /*font-size: 30px;*/
@@ -38,18 +65,31 @@
   }*/
 	.title-text {
 			/*font-size: 100%;*/
-			padding-top: 25%;
+		padding-top: 25%;
 		font-size: 25px;
 			/*font-family: 'Open Sans', arial, serif*/
 	}
 	.welcome-text {
     font-size: 90%;
   }
-	.travel-text .travel-header-text{
+	.travel-text{
     font-size: 90%;
   }
-  h1 {
+
+	.travel-header-text{
+  font-size: 90%;
+
+	}
+  /*h1 {
     font-size: 20px;
+  }*/
+	.theday-text{
+		font-size: 90%;
+
+	}
+  h1 {
+    /*font-size: 20px;*/
+    font-size: 70%
   }
   h2 {
     font-size: 18px;
@@ -75,11 +115,22 @@
 	.travel-text {
     font-size: 70%;
   }
+
+	.travel-header-text {
+    font-size: 70%;
+  }
+
+	.theday-text{
+		font-size: 70%;
+
+	}
   h1 {
-    font-size: 20px;
+    /*font-size: 20px;*/
+    font-size: 70%
   }
   h2 {
-    font-size: 18px;
+    /*font-size: 18px;*/
+		font-size: 60%
   }
   h3 {
     font-size: 16px;
