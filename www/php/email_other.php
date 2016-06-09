@@ -1,18 +1,19 @@
 <?php
-error_log('here');
+error_log('using phpemailer');
+ini_set('include_path', '../lib/PHPMailer');
 // header("Access-Control-Allow-Origin: *");
 
 // if($_POST){
-    $name = $_REQUEST['name'];
-    $email = $_REQUEST['email'];
-    $message = $_REQUEST['text'];
-		$response = $_REQUEST['formResp'];
+    // $name = $_REQUEST['name'];
+    // $email = $_REQUEST['email'];
+    // $message = $_REQUEST['text'];
+		// $response = $_REQUEST['formResp'];
 
 //send email
-		 if( mail("betheug@gmail.com", "Wedding Message from"  .$name, $message) ){
-			 	$feedback = 'Email Sent!';
-				mail($email, "Reply to wedding invite", $response);
-		 };
+		//  if( mail("betheug@gmail.com", "Wedding Message from"  .$name, $message) ){
+		// 	 	$feedback = 'Email Sent!';
+		// 		mail($email, "Reply to wedding invite", $response);
+		//  };
 
 
 // }
