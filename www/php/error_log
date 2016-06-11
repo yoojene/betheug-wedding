@@ -1,0 +1,127 @@
+[05-Jun-2016 08:26:39 America/New_York] here
+[05-Jun-2016 08:27:11 America/New_York] here
+[05-Jun-2016 08:27:16 America/New_York] here
+[05-Jun-2016 08:27:53 America/New_York] here
+[05-Jun-2016 08:28:37 America/New_York] here
+[05-Jun-2016 08:34:16 America/New_York] here
+[05-Jun-2016 08:35:10 America/New_York] here
+[05-Jun-2016 11:26:35 America/New_York] here
+[05-Jun-2016 11:29:27 America/New_York] here
+[05-Jun-2016 11:30:50 America/New_York] here
+[05-Jun-2016 11:33:04 America/New_York] here
+[05-Jun-2016 11:37:41 America/New_York] here
+[05-Jun-2016 11:38:07 America/New_York] here
+[05-Jun-2016 17:09:11 America/New_York] here
+[05-Jun-2016 17:14:26 America/New_York] here
+[05-Jun-2016 17:17:33 America/New_York] here
+[05-Jun-2016 17:17:33 America/New_York] email sent
+[05-Jun-2016 17:19:49 America/New_York] here
+[05-Jun-2016 17:19:49 America/New_York] email sent
+[05-Jun-2016 17:24:54 America/New_York] here
+[07-Jun-2016 04:25:12 America/New_York] here
+[09-Jun-2016 22:04:03 Etc/UTC] PHP Warning:  require(../lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 12
+[09-Jun-2016 22:04:03 Etc/UTC] PHP Warning:  require(../lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 12
+[09-Jun-2016 22:04:03 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../lib/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 12
+[09-Jun-2016 22:30:12 Etc/UTC] PHP Warning:  require(../lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:30:12 Etc/UTC] PHP Warning:  require(../lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:30:12 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../lib/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:43:34 Etc/UTC] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:43:34 Etc/UTC] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:43:34 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:45:40 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:45:40 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:45:40 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:46:31 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:52:26 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:52:26 Etc/UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:52:26 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:54:20 Etc/UTC] PHP Warning:  require(/home/genoeejt/public_html/bethandeugene/php/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 22:54:20 Etc/UTC] PHP Fatal error:  require(): Failed opening required '/home/genoeejt/public_html/bethandeugene/php/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/genoeejt/public_html/bethandeugene/php/gmail.php on line 14
+[09-Jun-2016 23:01:44 Etc/UTC] sent error
+[09-Jun-2016 23:01:44 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[09-Jun-2016 23:01:58 Etc/UTC] sent error
+[09-Jun-2016 23:01:58 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 07:24:37 Etc/UTC] sent error
+[10-Jun-2016 07:24:37 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 07:39:49 Etc/UTC] sent error
+[10-Jun-2016 07:39:49 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 07:44:31 Etc/UTC] sent error
+[10-Jun-2016 07:44:31 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 08:56:13 Etc/UTC] sent error
+[10-Jun-2016 08:56:13 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 20:50:57 Etc/UTC] sent error
+[10-Jun-2016 20:50:57 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 21:49:16 Etc/UTC] sent error
+[10-Jun-2016 21:49:16 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 21:52:45 Etc/UTC] sent error
+[10-Jun-2016 21:52:45 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 21:57:21 Etc/UTC] sent error
+[10-Jun-2016 21:57:21 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:07:18 Etc/UTC] sent error
+[10-Jun-2016 22:07:18 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:08:35 Etc/UTC] sent error
+[10-Jun-2016 22:08:35 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:13:26 Etc/UTC] sent error
+[10-Jun-2016 22:13:26 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:26:29 Etc/UTC] sent error
+[10-Jun-2016 22:26:29 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:27:03 Etc/UTC] sent error
+[10-Jun-2016 22:27:03 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:28:00 Etc/UTC] sent error
+[10-Jun-2016 22:28:00 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:29:43 Etc/UTC] sent error
+[10-Jun-2016 22:29:43 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:30:02 Etc/UTC] sent error
+[10-Jun-2016 22:30:02 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:33:35 Etc/UTC] sent error
+[10-Jun-2016 22:33:35 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:34:46 Etc/UTC] sent error
+[10-Jun-2016 22:34:46 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:34:56 Etc/UTC] sent error
+[10-Jun-2016 22:34:56 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:35:09 Etc/UTC] sent error
+[10-Jun-2016 22:35:09 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:39:19 Etc/UTC] sent error
+[10-Jun-2016 22:39:19 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:42:51 Etc/UTC] sent error
+[10-Jun-2016 22:42:51 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:47:21 Etc/UTC] sent error
+[10-Jun-2016 22:47:21 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:48:28 Etc/UTC] sent error
+[10-Jun-2016 22:48:28 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:51:15 Etc/UTC] sent error
+[10-Jun-2016 22:51:15 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 22:55:34 Etc/UTC] sent error
+[10-Jun-2016 22:55:34 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:56:20 Etc/UTC] sent error
+[10-Jun-2016 22:56:20 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:56:50 Etc/UTC] sent error
+[10-Jun-2016 22:56:50 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 22:58:21 Etc/UTC] sent error
+[10-Jun-2016 22:58:21 Etc/UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[10-Jun-2016 23:02:19 Etc/UTC] Sent!!
+[10-Jun-2016 23:04:12 Etc/UTC] Sent!!
+[10-Jun-2016 23:07:30 Etc/UTC] Sent!!
+[10-Jun-2016 23:10:15 Etc/UTC] Sent!!
+[10-Jun-2016 23:19:54 Etc/UTC] Sent!!
+[10-Jun-2016 23:33:22 Etc/UTC] Sent!!
+[10-Jun-2016 23:33:24 Etc/UTC] Sent reply!!
+[10-Jun-2016 23:35:51 Etc/UTC] Sent!!
+[10-Jun-2016 23:35:53 Etc/UTC] Sent reply!!
+[10-Jun-2016 23:49:28 Etc/UTC] Sent!!
+[10-Jun-2016 23:49:28 Etc/UTC] sent reply error
+[10-Jun-2016 23:49:28 Etc/UTC] Message body empty
+[10-Jun-2016 23:50:09 Etc/UTC] sent error
+[10-Jun-2016 23:50:09 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 23:51:47 Etc/UTC] sent error
+[10-Jun-2016 23:51:47 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 23:52:59 Etc/UTC] sent error
+[10-Jun-2016 23:52:59 Etc/UTC] You must provide at least one recipient email address.
+[10-Jun-2016 23:53:16 Etc/UTC] Sent!!
+[10-Jun-2016 23:55:19 Etc/UTC] Sent!!
+[10-Jun-2016 23:55:21 Etc/UTC] Sent reply!!
