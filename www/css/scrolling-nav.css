@@ -33,7 +33,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    height: 100%;
+    height: 120%;
     padding-top: 75px;
     text-align: center;
     /*background: #fff;*/
@@ -63,7 +63,7 @@ of those sections to manage the look and feel of the site. */
 .intro-message-subtitle {
     position: relative;
     padding-top: 15%;
-    padding-bottom: 10%;
+    padding-bottom: 5%;
 		font-size: 50px;
 		color: whitesmoke;
 		font-weight: bold;
@@ -126,7 +126,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .travel-section {
-    height: 120%;
+    height: 160%;
     padding-top: 100px;
     margin-bottom: 100px;
     text-align: center;
@@ -166,6 +166,13 @@ of those sections to manage the look and feel of the site. */
 	padding-top: 20px
 
 }
+.theday-icon-centre {
+	width:300px;
+	margin-left: 125px;
+	height:auto;
+
+
+}
 .theday-icon-right {
 
 	width:200px;
@@ -177,7 +184,7 @@ of those sections to manage the look and feel of the site. */
 
 
 .theday-section {
-    height: 130%;
+    height: 200%;
     padding-top: 100px;
     text-align: center;
     /*background: #eee;*/
@@ -186,14 +193,16 @@ of those sections to manage the look and feel of the site. */
 }
 
 .info-section {
-    height: 100%;
+    height: 140%;
     padding-top: 150px;
     text-align: center;
     /*background: #eee;*/
     background: #fff;
+		background: url(../img/monopolisea.jpg) no-repeat center center;
+		background-size: cover;
 }
 .rsvp-section {
-    height: 120%;
+    height: 140%;
     padding-top: 150px;
     text-align: center;
     /*background: #eee;*/
@@ -284,11 +293,10 @@ of those sections to manage the look and feel of the site. */
 
 	}
 
-
-		.section-header-text{
+	.section-header-text{
 			font-size: 40px;
 
-		}
+	}
 
   /*h1 {
     font-size: 20px;
