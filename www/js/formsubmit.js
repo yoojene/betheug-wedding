@@ -3,7 +3,9 @@ $(function() {
 	$('#submitForm').attr('disabled', 'disabled');
 
 
-	$( "#message" ).blur(function() { // Tab out of message field
+	//$( "#message" ).blur(function() { // Tab out of message field
+	$( "#message" ).change(function() {
+		console.log('message has chaanged');
 	if ($("#name").val().length > 0 && $("#email").val().length > 0 && $("#message").val().length > 0 && $("#formResp").text().length > 0){
 		$('#submitForm').removeAttr('disabled');
 	}
