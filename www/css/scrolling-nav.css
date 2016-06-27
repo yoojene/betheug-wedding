@@ -115,8 +115,8 @@ of those sections to manage the look and feel of the site. */
 }
 
 .hello-section {
-    height: 120%;
-    padding-top: 30px;
+    height: 160%;
+    padding-top: 100px;
 		margin-bottom: 150px;
     text-align: center;
     background: #e0bc9c;
@@ -126,7 +126,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .travel-section {
-    height: 160%;
+    height: 170%;
     padding-top: 100px;
     margin-bottom: 100px;
     text-align: center;
